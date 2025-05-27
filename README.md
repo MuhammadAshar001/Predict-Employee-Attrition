@@ -16,7 +16,6 @@ Pandas, NumPy
 Scikit-learn (preprocessing, Random Forest, metrics)
 Matplotlib, Seaborn (for visualization)
 
-Final Results
 ## Model Performance:
 
 andom Forest Classifier:
@@ -55,10 +54,10 @@ The model performs strongly for non-attrition cases (high precision and recall) 
 How to Run
 
 1. Clone the Repository (if applicable, or skip to step 2):
+``` bash
 git clone https://github.com/your-username/employee-attrition-prediction.git
 cd employee-attrition-prediction
-
-
+```
 2. Install Required Libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
