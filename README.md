@@ -54,19 +54,19 @@ F1 Score: 0.83
 The model performs strongly for non-attrition cases (high precision and recall) but struggles to identify attrition cases, with low recall (0.10) for defaulters. This indicates class imbalance issues, which could be addressed with techniques like SMOTE, hyperparameter tuning, or alternative models to improve performance on the minority class.
 How to Run
 
-Clone the Repository (if applicable, or skip to step 2):
+1. Clone the Repository (if applicable, or skip to step 2):
 git clone https://github.com/your-username/employee-attrition-prediction.git
 cd employee-attrition-prediction
 
 
-Install Required Libraries:
+2. Install Required Libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 
-Run the Notebook:
+3. Run the Notebook:
 
-Download the IBM HR Analytics dataset from Kaggle and place it in your working directory (e.g., as Attrition.csv).
-Open task5.ipynb in Jupyter Notebook or JupyterLab and run all cells.
+- Download the IBM HR Analytics dataset from Kaggle and place it in your working directory (e.g., as Attrition.csv).
+- Open TASK05.ipynb in Jupyter Notebook or JupyterLab and run all cells.
 
 
 
