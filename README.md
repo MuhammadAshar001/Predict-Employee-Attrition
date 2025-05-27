@@ -70,7 +70,7 @@ Open task5.ipynb in Jupyter Notebook or JupyterLab and run all cells.
 
 
 
-##Output
+## Output
 
 - Visualizations of attrition distribution and feature importance.
 - Classification report with precision, recall, and F1 scores.
